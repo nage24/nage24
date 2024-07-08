@@ -1,17 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00b840&height=180&text=Welcome!%20&animation=twinkling&fontColor=ffffff&fontSize=40" />
 
-### Hi there! 👋
-
-I'm NaGyeong, a passionate developer with a strong interest in web development, open-source projects. 
-I love to learn new technologies and contribute to the developer community.
-
-### About Me
-
-- 💼 Currently working at <br>Japan KISSCO</br> as a System Engineer
-- 🌱 Learning React, Java(Spring)
-- 📫 How to reach me: n0rkjdx0@gmail.com 
-
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
