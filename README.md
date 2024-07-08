@@ -13,7 +13,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 - Project 1
         <br> 1⃣　🛒쇼핑몰 'Lash👓' 프로젝트
-        <br> 🔗 :  https://github.com/ChoonSikNextLevel/TeamProjectLash2/edit/main/README.md
+        <br> 🔗 :  https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main
          
 </div> 
     </div>
