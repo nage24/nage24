@@ -8,8 +8,7 @@ I love to learn new technologies and contribute to the developer community.
 
 ### About Me
 
-- 💼 Currently working at Japan KISSCO as a System Engineer
-- 🎓 Graduated from [Your University] with a degree in [Your Major]
+- 💼 Currently working at <br>Japan KISSCO</br> as a System Engineer
 - 🌱 Learning React, Java(Spring)
 - 📫 How to reach me: n0rkjdx0@gmail.com 
 
