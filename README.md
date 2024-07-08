@@ -1,5 +1,18 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00b840&height=180&text=Welcome!%20&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    ### Hi there! 👋
+
+I'm [Your Name], a passionate developer with a strong interest in [Your Interests, e.g., web development, machine learning, open-source projects]. I love to learn new technologies and contribute to the developer community.
+
+### About Me
+
+- 💼 Currently working at [Your Company] as a [Your Position]
+- 🎓 Graduated from [Your University] with a degree in [Your Major]
+- 🌱 Learning [Current Learning Focus, e.g., React, Python, AI]
+- 🔭 Working on [Your Current Project or Open Source Contributions]
+- 📫 How to reach me: [Your Email or LinkedIn Profile]
+- 💬 Ask me about: [Topics you are knowledgeable in, e.g., JavaScript, Python, Cloud Computing]
+
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
