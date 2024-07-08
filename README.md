@@ -4,15 +4,17 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi😎 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    I'm NaGyeong, a passionate web developer with a background in building dynamic and responsive web applications. 
-    I enjoy solving complex problems and am constantly looking for new challenges to improve my skills and create innovative solutions.
+    I'm NaGyeong, 
+     <br> A passionate web developer with a background in building dynamic and responsive web applications. 
+     <br> I enjoy solving complex problems and am constantly looking for new challenges to improve my skills and create innovative solutions.
     </div> </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 - Project 1
-        <br>([https://github.com/yourusername/project1](https://github.com/ChoonSikNextLevel/TeamProjectLash2/edit/main/README.md))
-        <br>: 쇼핑몰 'Lash👓' 프로젝트 
+        <br> 1⃣　🛒쇼핑몰 'Lash👓' 프로젝트
+        <br> 🔗 :  https://github.com/ChoonSikNextLevel/TeamProjectLash2/edit/main/README.md
+         
 </div> 
     </div>
     <div style="text-align: left;">
