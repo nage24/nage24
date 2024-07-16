@@ -9,17 +9,42 @@
      <br> I enjoy solving complex problems and am constantly looking for new challenges to improve my skills and create innovative solutions.
          <br/><br/>
     </div> </div>
+
+### 📧 n0rkjdx0@gmail.com
+This is an email address that you can contact. 🙂
+    <br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-- Project 1
-        <br> 1⃣　🛒쇼핑몰 'Lash👓' 프로젝트
-        <br> 🔗 :  https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main <br><br/>
-- Project 2
-       <br> 2⃣　스터디 팀 프로젝트 : 사내용 도서 검색 시스템 📚
-       <br>  🔗 :  https://drive.google.com/file/d/1sncMaWZk010n6O8UINDLpniou5byOLYp/view
-       <br/><br/>
-         
+
+<div>
+     <h3> 🛒 Back-End Curriculum - Final Project : Shopping Mall 'Lash👓' </h3>
+     <br>
+     <Details> <br>
+     🧑‍🤝‍🧑 4 People <br><br>
+     ⌛ 2022.07 ~ 2022.12 <br><br>
+     🔗 : [Project Details](https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main) <br><br/>
+</div>
+
+<div>
+     <h3> 📚　Study Team Project : Library System for Company </h3>
+     <br>
+     <Details> <br>
+     🧑‍🤝‍🧑 3 People <br><br>
+     ⌛ 2024.04 ~ 2024.06 <br><br>
+     🔗 : [Project Details](https://drive.google.com/file/d/1sncMaWZk010n6O8UINDLpniou5byOLYp/view) <br><br/>
+</div>
+
+<div>
+	<h3> 🔐 Supabase Authentication Implementation Project </h3>
+     <br>
+     <Details> <br>
+     🧑‍🤝‍🧑 3 People <br><br>
+     ⌛ 2024.07 ~ 2024.08 <br><br>
+     🔗 : [Project Details]() <br><br/>
+</div>
+
+<br />
 </div> 
     </div>
     <div style="text-align: left;">
