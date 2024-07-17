@@ -28,7 +28,7 @@ This is an email address that you can contact. 🙂
      <Details> <br>
      🧑‍🤝‍🧑 3 People <br><br>
      ⌛ 2024.04 ~ 2024.06 <br><br>
-     🔗 : <a href="https://drive.google.com/file/d/1sncMaWZk010n6O8UINDLpniou5byOLYp/view">Project Details</a><br><br/>
+     🔗 : <a href="https://github.com/nage24/nage24/blob/main/Library%20System%20for%20Company.pdf">Project Details</a><br><br/>
 </div>
 
 <div>
