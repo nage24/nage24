@@ -4,11 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi😎 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    I'm NaGyeong, 
-     <br> A passionate web developer with a background in building dynamic and responsive web applications. 
-     <br> I enjoy solving complex problems and am constantly looking for new challenges to improve my skills and create innovative solutions.
-         <br/><br/>
-    </div> </div>
+    I'm NaGyeong.
 
 ### 📧 n0rkjdx0@gmail.com
 This is an email address that you can contact. 🙂
@@ -23,7 +19,7 @@ This is an email address that you can contact. 🙂
      <Details> <br>
      🧑‍🤝‍🧑 4 People <br><br>
      ⌛ 2022.07 ~ 2022.12 <br><br>
-     🔗 : [Project Details](https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main) <br><br/>
+     🔗 : <a href="https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main">Project Details</a><br><br/>
 </div>
 
 <div>
@@ -32,7 +28,7 @@ This is an email address that you can contact. 🙂
      <Details> <br>
      🧑‍🤝‍🧑 3 People <br><br>
      ⌛ 2024.04 ~ 2024.06 <br><br>
-     🔗 : [Project Details](https://drive.google.com/file/d/1sncMaWZk010n6O8UINDLpniou5byOLYp/view) <br><br/>
+     🔗 : <a href="https://drive.google.com/file/d/1sncMaWZk010n6O8UINDLpniou5byOLYp/view">Project Details</a><br><br/>
 </div>
 
 <div>
@@ -41,7 +37,7 @@ This is an email address that you can contact. 🙂
      <Details> <br>
      🧑‍🤝‍🧑 3 People <br><br>
      ⌛ 2024.07 ~ 2024.08 <br><br>
-     🔗 : [Project Details]() <br><br/>
+     🔗 : <a href="">Project Details</a><br><br/>
 </div>
 
 <br />
