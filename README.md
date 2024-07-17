@@ -46,7 +46,7 @@ This is an email address that you can contact. 🙂
      <Details> <br> <b>
      🧑‍🤝‍🧑 3 People <br><br>
      ⌛ 2024.07 ~ 2024.08 <br><br> </b>
-     🔗 : <a href="">Project Details</a><br><br/>
+     🔗 : <a href="https://github.com/Supabase-React-Study/Supabase-Project-2024">Project Details</a><br><br/>
 </div>
 
 <br />
