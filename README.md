@@ -33,13 +33,13 @@ This is an email address that you can contact. 🙂
      ⌛ 2024.04 ~ 2024.06 <br><br>
      📍 주요 기능　主要機能 <br><br>
 🙋‍♂️회원 会員</b> <br><br>
-&emsp; ● 도서 검색 및 도서 정보 &emsp; 図書検索及び図書情報<br>
-&emsp; ● 로그인 후 대출도서, 연체이력 조회 &emsp; ログイン後、貸出図書、延滞履歴を照会 <br>
-&emsp; ● 도서 예약 &emsp; 図書予約 <br><br>
+&emsp; ▪️ 도서 검색 및 도서 정보 &emsp; 図書検索及び図書情報<br>
+&emsp; ▪️ 로그인 후 대출도서, 연체이력 조회 &emsp; ログイン後、貸出図書、延滞履歴を照会 <br>
+&emsp; ▪️ 도서 예약 &emsp; 図書予約 <br><br>
 
 <b>👤 관리자 管理者</b> <br><br>
-&emsp; ● 도서등록, 수정, 상태 변경(대출 불가) &emsp; 図書登録、修正、状態変更(貸出不可) <br>
-&emsp; ● 회원 조회 &emsp; 会員照会 <br><br>
+&emsp; ▪️ 도서등록, 수정, 상태 변경(대출 불가) &emsp; 図書登録、修正、状態変更(貸出不可) <br>
+&emsp; ▪️ 회원 조회 &emsp; 会員照会 <br><br>
 🔗 : <b><a href="https://github.com/nage24/nage24/blob/main/Library%20System%20for%20Company.pdf">Project Details</a><br><br/>
 </div></b>
 
