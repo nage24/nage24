@@ -29,7 +29,7 @@
 &emsp;&emsp;<b>👤 관리자(管理者) </b> <br><br>
 &emsp;&emsp;     🔗 : <a href="https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main">Project Details</a><br><br/>
 </div>
-<br>
+
 <div>
 &emsp;&emsp;     <h3> 📚　Study Team Project : Library System for Company </h3>
      <Details> <br> <b>
