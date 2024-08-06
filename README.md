@@ -1,14 +1,20 @@
-<div align= "center">
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=HI,%20It's%20NaGyeong's%20GitHub&reversal=false&section=header&textBg=false&fontAlign=50&fontColor=343434&fontSize=60&animation=twinkling)
+
+
+<!-- <div align= "center">
      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Hi!%20I'm%20NaGyeong%20😄&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi😎 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     I'm NaGyeong.
+--> 
+
+<br><br>
 
 ### 📧 n0rkjdx0@gmail.com
-This is an email address that you can contact. 🙂
-    <br>
+&emsp;&emsp; This is an email address that you can contact🙂
+    <br><br><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
@@ -16,37 +22,48 @@ This is an email address that you can contact. 🙂
 <div>
      <h3> 🛒 Back-End Curriculum - Final Project : Shopping Mall 'Lash👓' </h3>
      <Details> <br> <b>
-     🧑‍🤝‍🧑 4 People <br><br>
-     ⌛ 2022.07 ~ 2022.12 <br><br>
-     📍 주요 기능　主要機能 <br><br>  
-🙋‍♂️회원 会員</b> <br><br>
-<b>👤 관리자 管理者</b> <br><br>
-     🔗 : <a href="https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main">Project Details</a><br><br/>
+&emsp;&emsp;     🧑‍🤝‍🧑 4 People <br><br>
+&emsp;&emsp;     ⌛ 2022.07 ~ 2022.12 <br><br>
+&emsp;&emsp;     📍 주요 기능(主要機能) <br><br>  
+&emsp;&emsp;🙋‍♂️회원(会員) </b> <br><br>
+&emsp;&emsp;<b>👤 관리자(管理者) </b> <br><br>
+&emsp;&emsp;     🔗 : <a href="https://github.com/ChoonSikNextLevel/TeamProjectLash2/tree/main">Project Details</a><br><br/>
 </div>
 <br>
 <div>
-     <h3> 📚　Study Team Project : Library System for Company </h3>
+&emsp;&emsp;     <h3> 📚　Study Team Project : Library System for Company </h3>
      <Details> <br> <b>
-     🧑‍🤝‍🧑 3 People <br><br>
-     ⌛ 2024.04 ~ 2024.06 <br><br>
-     📍 주요 기능　主要機能 <br><br>
-🙋‍♂️회원 会員</b> <br><br>
-&emsp; ▪️ &nbsp;도서 검색 및 도서 정보 &emsp; 図書検索及び図書情報<br>
+&emsp;&emsp;     🧑‍🤝‍🧑 3 People <br><br>
+&emsp;&emsp;     ⌛ 2024.04 ~ 2024.06 <br><br>
+&emsp;&emsp;     📍 주요 기능(主要機能) <br><br>
+&emsp;&emsp; 🙋‍♂️회원(会員) </b> <br><br>
+&emsp; ▪️ &nbsp;도서 검색 및 도서 정보 조회 &emsp; 図書検索及び図書情報検索<br>
 &emsp; ▪️ &nbsp;로그인 후 대출도서, 연체이력 조회 &emsp; ログイン後、貸出図書、延滞履歴を照会 <br>
 &emsp; ▪️ &nbsp;도서 예약 &emsp; 図書予約 <br><br>
 
-<b>👤 관리자 管理者</b> <br><br>
+&emsp;&emsp;<b> 👤 관리자(管理者) </b> <br><br>
 &emsp; ▪️ &nbsp;도서등록, 수정, 상태 변경(대출 불가) &emsp; 図書登録、修正、状態変更(貸出不可) <br>
 &emsp; ▪️ &nbsp;회원 조회 &emsp; 会員照会 <br><br>
-🔗 : <b><a href="https://github.com/nage24/nage24/blob/main/Library%20System%20for%20Company.pdf">Project Details</a><br><br/>
+&emsp;&emsp;📂 : <b><a href="https://github.com/nage24/nage24/blob/main/Library%20System%20for%20Company.pdf">Project Details</a><br><br/>
 </div></b>
 <br>
 <div>
 	<h3> 🔐 Supabase Authentication Implementation Project </h3>
      <Details> <br> <b>
-     🧑‍🤝‍🧑 3 People <br><br>
-     ⌛ 2024.07 ~ 2024.08 <br><br> </b>
-     🔗 : <a href="https://github.com/Supabase-React-Study/Supabase-Project-2024">Project Details</a><br><br/>
+&emsp;&emsp;🧑‍🤝‍🧑 3 People <br><br>
+&emsp;&emsp;⌛ 2024.07 ~ 2024.08 <br><br>
+&emsp;&emsp;📍 Skills <br></b>
+	     <br>
+	     &emsp;&emsp;
+	     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+	     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+	     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+	     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+	     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">  
+      <br><br>
+&emsp;&emsp;🔗 : https://supabase-project-2024.vercel.app/login <br><br>
+&emsp;&emsp;📂 : <a href="https://github.com/Supabase-React-Study/Supabase-Project-2024">More Project Details</a><br><br/>
 </div>
 
 <br />
